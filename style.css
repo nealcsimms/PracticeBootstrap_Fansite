@@ -1,0 +1,43 @@
+.navbar-brand{
+	font-family: 'Special Elite';
+	font-size: 25px;
+}
+
+li {
+	color:white;
+	font-family: 'Special Elite';
+	font-size: 25px;
+}
+
+.jumbotron {
+background-image: url(http://static.digg.com/images/3fe92f9cf3ee4a17990e743d519b522c_f55ceec0abfe4381b67c16d1c148db5a_header.jpeg);
+background-size: cover;
+background-height:100%;
+}
+
+.jumboheader { padding-top: 75px;
+	padding-left: 50px;
+	font-family: 'Special Elite';
+	color:red;
+}	
+
+p {  padding:50px; 
+	font-family: 'Special Elite';
+	color:white;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+    size:cover;
+}
+
+img {
+	height:200px;
+	width:300px;
+}
+
+.carousel-caption{
+	font-family: 'Special Elite';
+}
+
+
